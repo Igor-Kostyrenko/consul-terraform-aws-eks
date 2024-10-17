@@ -119,3 +119,4 @@ terraform destroy
 ```
 This will delete all resources that were created by Terraform.
 
+### [Source](https://www.youtube.com/watch?v=s3I1kKKfjtQ&ab_channel=TechWorldwithNana)
